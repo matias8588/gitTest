@@ -259,3 +259,10 @@ a {
   font-size: 11px !important;
   letter-spacing: 0.2em;
 }
+
+.social-icon {
+  color: white;
+  &:hover {
+    color: fuchsia;
+  }
+}

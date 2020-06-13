@@ -190,6 +190,16 @@ a:hover {
 }
 .site-footer a {
   color: white;
+  cursor: pointer;
+}
+#terminos:hover {
+  color: fuchsia;
+}
+#modal-title {
+  color: #000;
+}
+#modal-body {
+  color: #000;
 }
 .site-footer a:hover {
   color: fuchsia;
